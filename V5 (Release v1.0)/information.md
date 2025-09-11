@@ -24,7 +24,6 @@ python -m nuitka --standalone --onefile --windows-console-mode=disable --disable
 
 * `--output-file=UserManagementApp:` Имя конечного файла.
 
-
 ---
 
 # 🔐 Рекомендации по улучшению приложения
