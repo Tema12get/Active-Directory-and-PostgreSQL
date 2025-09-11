@@ -10,8 +10,8 @@
 python -m nuitka --standalone --onefile --windows-console-mode=disable --disable-cache=ccache --enable-plugin=pyqt5 --output-dir=build --output-file=UserManagementApp main.py
 ```
 
-Пояснение опций:
---standalone: Включить все необходимые библиотеки в сборку.
+#Пояснение опций:
+`--standalone:` Включить все необходимые библиотеки в сборку.
 
 --onefile: Создать один исполняемый файл.
 
