@@ -1,2 +1,0 @@
-python -m nuitka --standalone --onefile --windows-console-mode=disable --disable-cache=ccache --enable-plugin=pyqt5 --output-dir=build --o
-utput-file=UserManagementApp main.py
