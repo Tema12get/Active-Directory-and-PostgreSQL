@@ -16,10 +16,10 @@ python -m nuitka --standalone --onefile --windows-console-mode=disable --disable
 
 * `--onefile:` Создать один исполняемый файл.
 
-`--windows-console-mode=disable:` Отключить появление консольного окна при запуске.
+* `--windows-console-mode=disable:` Отключить появление консольного окна при запуске.
 
-`--enable-plugin=pyqt5:` Подключить плагин для корректной работы с библиотекой PyQt5.
+* `--enable-plugin=pyqt5:` Подключить плагин для корректной работы с библиотекой PyQt5.
 
-`--output-dir=build:` Папка, куда будет помещен результат.
+* `--output-dir=build:` Папка, куда будет помещен результат.
 
-`--output-file=UserManagementApp:` Имя конечного файла.
+* `--output-file=UserManagementApp:` Имя конечного файла.
