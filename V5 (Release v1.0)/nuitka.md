@@ -12,7 +12,7 @@ python -m nuitka --standalone --onefile --windows-console-mode=disable --disable
 
 ### Пояснение опций:
 
-`--standalone:` Включить все необходимые библиотеки в сборку.
+. `--standalone:` Включить все необходимые библиотеки в сборку.
 
 `--onefile:` Создать один исполняемый файл.
 
