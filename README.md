@@ -1,5 +1,3 @@
----
-
 # 🛠 User & DB Management Tool
 
 ## 📌 Описание
